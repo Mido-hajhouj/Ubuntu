@@ -111,4 +111,4 @@ Termux Proot Distro - https://github.com/termux/proot-distro
 
 **Developed by by <a href="https://github.com/BDhackers009">Mustakim Ahmed</a>** & **Developed by<a href="https://github.com/htr-tech">Tahmid Rayat</a>**
 
-**Developed by <a href="https://github.com/Mahfuz-THBD">0xBaryonyx</a>** & **Enhanced by <a href="https://github.com/Midohajhouj">MIDØ</a>**
+**Developed by <a href="https://github.com/Mahfuz-THBD">0xBaryonyx</a>** & **Enhanced by <a href="https://github.com/Mido-hajhouj">LIONMAD</a>**
